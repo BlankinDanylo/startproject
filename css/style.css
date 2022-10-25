@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(226, 255, 4);
+}
+.middle{
+    color: brown;
+}
+.first{
+    color: green;
+}
+.table{
+    list-style: none;
+}
+*{
+    box-sizing: border-box;
+}
+.body{
+    padding: 0 10px;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 1200px;
+}
